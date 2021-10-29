@@ -1,0 +1,18 @@
+{
+  "name": "nasir",
+  "version": "1.0.0",
+  "description": "New App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "App"
+  ],
+  "author": "Nasir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
